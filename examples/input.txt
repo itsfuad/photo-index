@@ -1,0 +1,4 @@
+holiday/a.jpg
+holiday/b.PNG
+misc/readme.txt
+other/c.png
